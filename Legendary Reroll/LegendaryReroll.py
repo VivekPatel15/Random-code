@@ -1,5 +1,3 @@
-# Made by Vivek Patel aka Vishnu
-# Twitter: @HiImVishnu Discord: Vishnu#3379
 # Made for DuncanCantDie and friends for RFFAs
 # LegendaryReroll.py rolls for a random legendary Pokemon
 # Reads from Legendaries.txt
@@ -14,5 +12,3 @@ def reroll():
 while active:
     reroll()
     input('Press Enter to reroll\n')
-
-
