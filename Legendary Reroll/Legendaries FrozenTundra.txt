@@ -25,11 +25,11 @@ Kubfu
 Urshifu (Single-Strike)
 Urshifu (Rapid-Strike)
 Zarude
-Articuno
+Articuno (Kanto)
 Articuno (Galar)
-Zapdos
+Zapdos (Kanto)
 Zapdos (Galar)
-Moltres 
+Moltres (Kanto)
 Moltres (Galar)
 Raikou
 Entei
@@ -54,11 +54,11 @@ Palkia
 Heatran
 Giratina
 Cresselia
-Tornadus
+Tornadus (Incarnate)
 Tornadus (Therian)
-Thunderus
+Thunderus (Incarnate)
 Thunderus (Therian)
-Landorus
+Landorus (Incarnate)
 Landorus (Therian)
 Xerneas
 Yveltal
